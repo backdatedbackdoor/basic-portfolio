@@ -2,8 +2,13 @@ body{
     font-family: 'Poppins', sans-serif;
     margin: 0px;
 }
-h1{
-    font-size: 50px;
+.heading-h1{
+    font-size: 55px;
+}
+.banner-p{
+    line-height: 22px;
+    font-weight: 500;
+    color: gray;
 }
 .name-highlight{
     color: orange;
@@ -13,6 +18,9 @@ h1{
     float: left;
     margin-left: 5%;
     padding: 2%; 
+}
+.half-width p {
+    margin-bottom: 30px;
 }
 .half-width img{
     width: 100%;
@@ -24,13 +32,29 @@ h1{
 }
 section{
     height: 500px;
+    padding-bottom: 15%;
 }
-.link-button{
-    background-image: linear-gradient(45deg, lightSalmon, tomato);
+.link-button-1{
+    background-image: linear-gradient(50deg, rgba(1, 255, 221, 0.808), rgba(255, 230, 0, 0.925));
     text-decoration: none;
     text-transform: uppercase;
     padding: 10px 20px;
     border-radius: 5px;
     font-weight: 700;
-    color:white;
+    color:rgb(58, 57, 57);
+    
+}
+
+.link-button-2{
+    background-image: linear-gradient(50deg,  rgba(255, 230, 0, 0.925), rgb(11, 248, 217));
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-weight: 700;
+    color:rgb(73, 73, 73);
+    
+}
+.heading-h2{
+    font-size: 45px;
 }
