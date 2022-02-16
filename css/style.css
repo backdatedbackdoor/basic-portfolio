@@ -27,8 +27,7 @@ body{
 }
 
 .top-banner{
-    background-color: rgba(0, 0, 0, 0.63);
-    /* background-image: url("images/top-banner.png"); */
+    background-image: url("images/top-banner.png") !important;
     background-repeat: no-repeat;
 }
 section{
