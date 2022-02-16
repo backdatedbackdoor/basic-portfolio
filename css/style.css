@@ -27,7 +27,8 @@ body{
 }
 
 .top-banner{
-    background-image: url("images/top-banner.png");
+    background-color: rgba(0, 0, 0, 0.63);
+    /* background-image: url("images/top-banner.png"); */
     background-repeat: no-repeat;
 }
 section{
@@ -57,4 +58,7 @@ section{
 }
 .heading-h2{
     font-size: 45px;
+}
+.dream-area{
+    
 }
