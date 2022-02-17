@@ -17,7 +17,11 @@ body{
     width: 40%;
     float: left;
     margin-left: 5%;
-    padding: 2%; 
+    padding: 2%;
+    line-height: 25px;
+}
+.half-width p{
+    color: grey;
 }
 .half-width p {
     margin-bottom: 30px;
@@ -70,7 +74,6 @@ section{
 }
 .experience-area{
     background-image: url("https://backdatedbackdoor.github.io/basic-portfolio/images/exp-bg.png");
-    /* background-image: url("/images/exp-bg-2.png"); */
     background-repeat: no-repeat;
     background-position: left;
     background-size: 150px;
@@ -95,6 +98,10 @@ footer{
     text-align: center;
 }
 .copyright{
+    text-decoration: none;
+    color: orange;
+}
+.rm-anchor a{
     text-decoration: none;
     color: orange;
 }
