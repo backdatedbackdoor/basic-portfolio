@@ -59,7 +59,7 @@ section{
     font-size: 45px;
 }
 .dream-area{
-    background-image: url("/images/dream-bg.png");
+    background-image: url("https://backdatedbackdoor.github.io/basic-portfolio/images/dream-bg.png");
     background-repeat: no-repeat;
     background-position: right;
 }
@@ -69,7 +69,7 @@ section{
     height: 60%;
 }
 .experience-area{
-    background-image: url("/images/exp-bg.png");
+    background-image: url("https://backdatedbackdoor.github.io/basic-portfolio/images/exp-bg.png");
     /* background-image: url("/images/exp-bg-2.png"); */
     background-repeat: no-repeat;
     background-position: left;
@@ -79,7 +79,7 @@ section{
     border-left: 7px solid;
     border-image: linear-gradient(180deg,lightSalmon, tomato);
     border-image-slice: 1;
-    background-image: url("/images/exp-bg-2.png");
+    background-image: url("https://backdatedbackdoor.github.io/basic-portfolio/images/exp-bg-2.png");
     background-repeat: no-repeat;
     background-size: 100px;
 }
@@ -87,7 +87,7 @@ section{
     border-left: 7px solid;
     border-image: linear-gradient(180deg, blue, cyan);
     border-image-slice: 1;
-    background-image: url("/images/exp-bg-3.png");
+    background-image: url("https://backdatedbackdoor.github.io/basic-portfolio/images/exp-bg-3.png");
     background-repeat: no-repeat;
     background-size: 100px;
 }
