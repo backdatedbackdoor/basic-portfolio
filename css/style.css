@@ -10,7 +10,7 @@ body{
     font-weight: 500;
     color: gray;
 }
-.name-highlight{
+.orange-highlight{
     color: orange;
 }
 .half-width{
@@ -62,4 +62,39 @@ section{
     background-image: url("/images/dream-bg.png");
     background-repeat: no-repeat;
     background-position: right;
+}
+.single-experience{
+    box-shadow: 15px 15px 40px grey;
+    border-radius: 10px;
+    height: 60%;
+}
+.experience-area{
+    background-image: url("/images/exp-bg.png");
+    /* background-image: url("/images/exp-bg-2.png"); */
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 150px;
+}
+#sec-researcher{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg,lightSalmon, tomato);
+    border-image-slice: 1;
+    background-image: url("/images/exp-bg-2.png");
+    background-repeat: no-repeat;
+    background-size: 100px;
+}
+#web-developer{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, blue, cyan);
+    border-image-slice: 1;
+    background-image: url("/images/exp-bg-3.png");
+    background-repeat: no-repeat;
+    background-size: 100px;
+}
+footer{
+    text-align: center;
+}
+.copyright{
+    text-decoration: none;
+    color: orange;
 }
